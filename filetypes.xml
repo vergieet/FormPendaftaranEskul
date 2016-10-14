@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="tes" type="PLAIN_TEXT" />
+      <mapping pattern="maker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
