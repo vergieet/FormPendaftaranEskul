@@ -33,3 +33,9 @@ masih salah
 Jika anda ingin mendownload aplikasi ini.Silahkan download pada link
 dibawah ini :
 [LINK DOWNLOAD](https://drive.google.com/open?id=0B_TN1Qqk_YDCVmtMdmZfNG1Nckk)
+
+## Identitas
+Nama : Vergie Ericson T
+Kelas : XII-RPL1
+Absen : 39
+Sekolah : SMK TELKOM
