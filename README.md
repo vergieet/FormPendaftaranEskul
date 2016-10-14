@@ -36,6 +36,9 @@ dibawah ini :
 
 ## Identitas
 Nama : Vergie Ericson T
+
 Kelas : XII-RPL1
+
 Absen : 39
+
 Sekolah : SMK TELKOM
