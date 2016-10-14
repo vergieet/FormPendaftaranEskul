@@ -32,4 +32,4 @@ masih salah
 ## Link Download
 Jika anda ingin mendownload aplikasi ini.Silahkan download pada link
 dibawah ini :
-[LINK DOWNLOAD]()
+[LINK DOWNLOAD](https://drive.google.com/open?id=0B_TN1Qqk_YDCVmtMdmZfNG1Nckk)
