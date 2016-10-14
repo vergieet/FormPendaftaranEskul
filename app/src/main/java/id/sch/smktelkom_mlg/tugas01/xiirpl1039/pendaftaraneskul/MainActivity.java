@@ -44,8 +44,8 @@ public class MainActivity extends AppCompatActivity {
         textKelas = (TextView) findViewById(R.id.Tkelas);
         textPenjelasan = (TextView) findViewById(R.id.Tpenjelasan);
 
-        trims = (TextView) findViewById(R.id.Tjeniskelamin);
-        telreg = (TextView) findViewById(R.id.Tkelas);
+        trims = (TextView) findViewById(R.id.trims);
+        telreg = (TextView) findViewById(R.id.telreg);
 
         rbLK = (RadioButton) findViewById(R.id.rblk);
         rbPR = (RadioButton) findViewById(R.id.rbpr);
@@ -59,11 +59,12 @@ public class MainActivity extends AppCompatActivity {
         cbMUS = (CheckBox) findViewById(R.id.cbMU);
         trims.setVisibility(View.INVISIBLE);
         telreg.setVisibility(View.INVISIBLE);
+        telreg.setVisibility(View.INVISIBLE);
         textPenjelasan.setVisibility(View.INVISIBLE);
         proses.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-              if(isValid()){
+              if(!isValid()){
               trims.setText("ISILAH DATA ANDA DENGAN BENAR");
                   trims.setVisibility(View.VISIBLE);
               }else{
@@ -80,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
                 textJenis.setText("Jenis Kelamin : " + rbPR.getText().toString());
                 }
             textKelas.setText("Kelas : " + spKelas.getSelectedItem().toString());
-
+hobi ="";
                   if(cbBAS.isChecked()){hobi+="> " + cbBAS.getText().toString() + "\n";}
                   if(cbFUS.isChecked()){hobi+="> " + cbFUS.getText().toString() + "\n";}
                   if(cbBER.isChecked()){hobi+="> " + cbBER.getText().toString() + "\n";}
