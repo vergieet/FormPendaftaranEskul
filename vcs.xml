@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="vergieet" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/arinirae/VoteApp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/andro" />
